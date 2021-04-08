@@ -1,0 +1,35 @@
+ax
+b
+fi 4.02,8.1,1.,6.
+0.,14.,.5,2.,
+0.,.20,.01,.05,
+dl 10.,0.01,sk20-skx       
+ds linef
+co blue
+df dn008-016.plt
+dl 6.2,.16,R_(n) = 2.644   8 neutrons 
+co red
+df dp008-016.plt
+dl 6.2,.15,R_(p) = 2.674   8 protons 
+co black
+df dm008-016.plt
+dl 6.2,.17,R_(m) = 2.659  16 nucleons
+dl 6.2,.14,R_(c) =  2.75 charge
+dl 6.2,.13,R_(n) - R_(p) =  -0.03 skin
+dl 1.0,.19,R: root-mean-sqaure radii (fm)
+ax
+lb
+ls 1.3
+ts 0.,1.3
+fi 1.1,4.02,1.,6.
+10.,0.,.5,2.,radius (fm)
+.0,0.20,.01,.05,
+dl 9.,0.18,nuclear densities
+dl 9.0,.165,$( 16)O  
+ds line
+co blue
+df dn008-016.plt
+co red
+df dp008-016.plt
+co black
+df dm008-016.plt

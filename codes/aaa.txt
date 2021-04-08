@@ -1,0 +1,51 @@
+Notes for the NE 201 lecture by Alex Brown on Monday April 4, 2016
+
+This lecture will be an overview of the material from Chapter 14 of my lecture notes.
+
+I will pass out a folder call "dens" - put this on your windows desktop.
+We will use this in class to carry out calculations for the discussion.
+
+aaa.for is a wrapper for my energy-density functional program dens.
+We will use this to calculate properties of nuclei with results shown in the 
+following *.pdf files:
+
+a) pot - the central EDF potentials for the nucleus
+b) sps - the single-particle energies for the nucleus
+c) den - the densities for the nucleus
+d) nm  - the nuclear equations of state (nucleus independent)
+
+param.den gives the default set of Skyrme parameters to be used.
+
+We will discuss the following questions based on these figures:
+
+a) pot
+
+1) What determines the radial size of the potentials? 
+2) What causes the oscillations in the potentials?
+3) What other parts of the potential are important?
+
+b) sps
+
+1) What are magic nuclei?
+2) What are the spins and parities for nuclei near the magic nuclei?
+3) What determines if a nucleus is stable to beta decay?
+4) How do we construct excited states for nuclei?
+5) What is the effect of the Coulomb interaction?
+6) What determines the neutron drip line?
+7) What determines the proton drip line?
+8) Are any superheavy nuclei magic?
+
+c) den 
+
+1) What is nuclear saturation for the density?
+2) What is the effect of the Coulomb energy?
+3) What is the neutron skin?
+4) What is a neutron halo? 
+5) What is a bubble nucleus?
+
+c) nm
+
+1) What is the fixed point for the matter EOS?
+2) What is the nuclear matter in-compressibility?
+3) What is the fixed point for the neutron EOS?
+4) What determines the properties of a neutron star? 
